@@ -49,7 +49,7 @@
     &__nombre{
         min-height: 5.5rem;
     }
-
+    
     &__descripcion{
         color: v.$primario;
     }
@@ -61,4 +61,7 @@
         padding: 1rem;
     }
     
+    &__imagen{
+        width: 100%;
+    }
 }
